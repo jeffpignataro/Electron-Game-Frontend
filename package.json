@@ -1,0 +1,19 @@
+{
+    "name": "electron-game-frontend",
+    "version": "0.0.1a",
+    "description": "",
+    "main": "main.js",
+    "scripts": {
+        "start": "npx electron main.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "Jeff Pignataro",
+    "license": "",
+    "dependencies": {
+        "request": "^2.88.0"
+    },      
+    "devDependencies": {
+        "electron": "^6.0.3"
+    }
+}
