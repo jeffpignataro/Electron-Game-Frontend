@@ -1,0 +1,21 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+#game-container {
+    background-color: black;
+    color: white;
+}
+
+#game-map {
+    width: 772px;
+    height: 450px;
+    border: 3px solid red;
+    background-color: white;
+    margin: 0 auto;
+    display: block;
+}
